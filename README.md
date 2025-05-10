@@ -1,5 +1,5 @@
-# Text2Audio-Subtitles
-
+# Audio-Books
+### Text2Audio-Subtitles
 This project converts PDF files into audiobooks with synchronized subtitles in `.vtt` format. It uses FastAPI for the backend and Microsoft's Edge TTS for text-to-speech conversion.
 
 ## Features
