@@ -1,7 +1,5 @@
-input
 .env
-AudioBooks_API.py
-tts_coqui.py
-voices_testing
-output
+audiobooks
 venv
+**/__pycache__/
+/voices
