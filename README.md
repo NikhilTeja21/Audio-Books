@@ -46,14 +46,6 @@ This project converts PDF files into audiobooks with synchronized subtitles in `
 - Python 3.8 or higher
 - Dependencies listed in `requirements.txt`
 
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgments
 
 - [FastAPI](https://fastapi.tiangolo.com/) for providing a modern web framework.
